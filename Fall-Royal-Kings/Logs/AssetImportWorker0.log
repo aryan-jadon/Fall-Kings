@@ -1,0 +1,1320 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/jadona/Documents/Production-Prototype/Fall-Royal-Kings
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+54820
+Successfully changed project path to: /Users/jadona/Documents/Production-Prototype/Fall-Royal-Kings
+/Users/jadona/Documents/Production-Prototype/Fall-Royal-Kings
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 263.17 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/jadona/Documents/Production-Prototype/Fall-Royal-Kings/Assets
+GfxDevice: creating device client; threaded=0
+2021-07-08 00:54:58.664 Unity[14966:1241858] Color LCD preferred device: AMD Radeon Pro 5500M (high power)
+2021-07-08 00:54:58.664 Unity[14966:1241858] Metal devices available: 2
+2021-07-08 00:54:58.664 Unity[14966:1241858] 0: AMD Radeon Pro 5500M (high power)
+2021-07-08 00:54:58.665 Unity[14966:1241858] 1: Intel(R) UHD Graphics 630 (low power)
+2021-07-08 00:54:58.667 Unity[14966:1241858] Using device AMD Radeon Pro 5500M (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500M
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56966
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000771 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 263.03 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  4.711 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005281 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 255.11 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+WARNING: RGBA Compressed ETC2 sRGB format is not supported, decompressing texture
+Mono: successfully reloaded assembly
+- Completed reload, in  1.985 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Shader 'MoreMountains/MMRipple': fallback shader 'Particle/AlphaBlended' not found
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.7f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Refreshing native plugins compatible for Editor in 2.30 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 3697 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 358.0 MB.
+System memory in use after: 355.6 MB.
+
+Unloading 49 unused Assets to reduce memory usage. Loaded Objects now: 4143.
+Total: 5.325519 ms (FindLiveObjects: 0.474339 ms CreateObjectMapping: 0.245995 ms MarkObjects: 2.863624 ms  DeleteObjects: 1.739053 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 1 (attack).mp3
+  artifactKey: Guid(1fa60c6aa3a50456babc18851ddbb374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 1 (attack).mp3 using Guid(1fa60c6aa3a50456babc18851ddbb374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ce2e09f1af0cdf140328c65df673e88') in 1.356895 seconds
+  Import took 1.365459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 5 (heavy attack).mp3
+  artifactKey: Guid(394230acb2c90483293b4b874bdbfc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 5 (heavy attack).mp3 using Guid(394230acb2c90483293b4b874bdbfc4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac3f025750e761036eee8765f54cd879') in 0.010801 seconds
+  Import took 0.017809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast Soft Roar 1.mp3
+  artifactKey: Guid(e88843db533cf464c979830059660410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast Soft Roar 1.mp3 using Guid(e88843db533cf464c979830059660410) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19724b0b4da995bef723e71d7dda22f2') in 0.008372 seconds
+  Import took 0.015954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 2 (wounded).mp3
+  artifactKey: Guid(be03fe11f909b4667afbfe4dd39348ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 2 (wounded).mp3 using Guid(be03fe11f909b4667afbfe4dd39348ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93183c908fe55bb342c5e49bbb71d18f') in 0.009806 seconds
+  Import took 0.017049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 8 (heavy attack).mp3
+  artifactKey: Guid(f734c0e2a9ca84a04ba925d627125c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 8 (heavy attack).mp3 using Guid(f734c0e2a9ca84a04ba925d627125c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ae49002f3cabe5034102965dedf08a5') in 0.007303 seconds
+  Import took 0.014076 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast Roar 3.mp3
+  artifactKey: Guid(3b0ad5c378d3b41b997bb654c17c7a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast Roar 3.mp3 using Guid(3b0ad5c378d3b41b997bb654c17c7a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9f45afb6b3f641594fe643d67af2e38') in 0.008829 seconds
+  Import took 0.016850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 10 (heavy attack).mp3
+  artifactKey: Guid(16cc49058c6e24c8c954b936104ebc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 10 (heavy attack).mp3 using Guid(16cc49058c6e24c8c954b936104ebc06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2620b58054e20c77a78a6568639059e3') in 0.006728 seconds
+  Import took 0.013338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 4 (wounded).mp3
+  artifactKey: Guid(fd498028a08584682a1fe8d1d79d867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 4 (wounded).mp3 using Guid(fd498028a08584682a1fe8d1d79d867c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f956216f1c3203898504f792928acdd') in 0.007942 seconds
+  Import took 0.014476 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast Roar 1.mp3
+  artifactKey: Guid(b76fa0a375e964cb08c14573079e8567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast Roar 1.mp3 using Guid(b76fa0a375e964cb08c14573079e8567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80c798dc0d6dbba9b95eb2ce56c73122') in 0.009651 seconds
+  Import took 0.016411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Little Creature 1.mp3
+  artifactKey: Guid(ea4abd74387734677b9b285bb28b45f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Little Creature 1.mp3 using Guid(ea4abd74387734677b9b285bb28b45f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'acda40a735f016385e7ddbafaee12fae') in 0.007797 seconds
+  Import took 0.014602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 6 (heavy attack).mp3
+  artifactKey: Guid(3d641e2c60c5b43919523aaa76461aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 6 (heavy attack).mp3 using Guid(3d641e2c60c5b43919523aaa76461aac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec6c952327fe83ab63a3a9c8d08bccc2') in 0.008748 seconds
+  Import took 0.015199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Big Beast Roar 1.mp3
+  artifactKey: Guid(84ea148440e2c461db9bc3f4d9f9973e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Big Beast Roar 1.mp3 using Guid(84ea148440e2c461db9bc3f4d9f9973e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f94ca6bf2905b3d6f167f3700d47858b') in 0.008879 seconds
+  Import took 0.015357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Creature 4 (insect).mp3
+  artifactKey: Guid(dfa4a4102a31949e8980e99c686e2f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Creature 4 (insect).mp3 using Guid(dfa4a4102a31949e8980e99c686e2f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c12a2dc2d3f17dd0f578b63b9e7abf') in 0.009936 seconds
+  Import took 0.016582 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience
+  artifactKey: Guid(516698a113400494a93bbda2b25f49be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience using Guid(516698a113400494a93bbda2b25f49be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02184970b265fc11667581ec7858e957') in 0.001066 seconds
+  Import took 0.007174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Dungeon Audio Kit/FX
+  artifactKey: Guid(091b929018d8a46508d3026e853f5655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX using Guid(091b929018d8a46508d3026e853f5655) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e65ec66ee6b42874a44641a4da41156') in 0.001730 seconds
+  Import took 0.008226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Creature 1 (insect).mp3
+  artifactKey: Guid(87e256fa11b69446fb4e807b2d1fc391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Creature 1 (insect).mp3 using Guid(87e256fa11b69446fb4e807b2d1fc391) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a6e92ea3d3d8cb7085061b751fa5f81') in 0.006789 seconds
+  Import took 0.013390 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast 1.mp3
+  artifactKey: Guid(ab03ef413d8c340d8b5a326a2bd3667b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast 1.mp3 using Guid(ab03ef413d8c340d8b5a326a2bd3667b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e62c182cf882262f7ff5695ad5d622d7') in 0.008708 seconds
+  Import took 0.015560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast 5.mp3
+  artifactKey: Guid(8ac8f1ed738c942c6aea4bae9bfaf3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast 5.mp3 using Guid(8ac8f1ed738c942c6aea4bae9bfaf3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b3910e1da3a40d17fdcd088cb111265') in 0.009039 seconds
+  Import took 0.016041 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast Soft Roar 2.mp3
+  artifactKey: Guid(496ab4e3e495d4df7a8c06c2ca3bf088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast Soft Roar 2.mp3 using Guid(496ab4e3e495d4df7a8c06c2ca3bf088) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f89ad6c31b56680170bec29147bc69f') in 0.010076 seconds
+  Import took 0.017254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices
+  artifactKey: Guid(2e8c09910ced14af081cb915477fa6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices using Guid(2e8c09910ced14af081cb915477fa6dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c83e88b4ed773fa2c7106ca0401b9a2d') in 0.001065 seconds
+  Import took 0.007360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Creature 5 (insect).mp3
+  artifactKey: Guid(1f7d5fb58fe3249da9eac4c210c116f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Creature 5 (insect).mp3 using Guid(1f7d5fb58fe3249da9eac4c210c116f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b75f02c8b82a0659487ebb27ed355a13') in 0.009524 seconds
+  Import took 0.016458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Creature 3 (insect).mp3
+  artifactKey: Guid(4f393f150e3314618b6e20dd140aa6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Creature 3 (insect).mp3 using Guid(4f393f150e3314618b6e20dd140aa6c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db3ccb5150565e296df203d752d13ea7') in 0.008761 seconds
+  Import took 0.015272 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 7 (double attack).mp3
+  artifactKey: Guid(b260bad7bf37b488489cd3cd74ddf077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 7 (double attack).mp3 using Guid(b260bad7bf37b488489cd3cd74ddf077) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aca680f153cb5e41c1b197a8675c2d05') in 0.010086 seconds
+  Import took 0.016881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast 2.mp3
+  artifactKey: Guid(7a00bae3246e34609bdc4ba0876a73cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast 2.mp3 using Guid(7a00bae3246e34609bdc4ba0876a73cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc4febc68693e6ae3fe91562423121e3') in 0.010172 seconds
+  Import took 0.016411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Little Creature 4.mp3
+  artifactKey: Guid(c8fb637f3c68449ec9b27571d090eadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Little Creature 4.mp3 using Guid(c8fb637f3c68449ec9b27571d090eadd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ff56e17ccafb574ed6b432b849da273') in 0.008627 seconds
+  Import took 0.014817 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 5 (death).mp3
+  artifactKey: Guid(3f2f298ca725d440aafe3d229eb67498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 5 (death).mp3 using Guid(3f2f298ca725d440aafe3d229eb67498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1baf31a0903fd2976fb0de2870c862bf') in 0.009927 seconds
+  Import took 0.016591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast 3.mp3
+  artifactKey: Guid(9e67046006f6d4f508952a39b0c0784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast 3.mp3 using Guid(9e67046006f6d4f508952a39b0c0784b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ffd4c31f3eff595f555568b8cac218') in 0.008840 seconds
+  Import took 0.015017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Creature 2 (insect).mp3
+  artifactKey: Guid(91ccc82f5280f4d3499b31eb2ad21c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Creature 2 (insect).mp3 using Guid(91ccc82f5280f4d3499b31eb2ad21c79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71a0779355eafc51953e00f2ed867623') in 0.007099 seconds
+  Import took 0.013857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast 4.mp3
+  artifactKey: Guid(2b5b21318d97447fba31a5f0e6f83301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast 4.mp3 using Guid(2b5b21318d97447fba31a5f0e6f83301) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5433580061ae4ee282eb49173edf32f7') in 0.007819 seconds
+  Import took 0.014702 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Little Creature 2.mp3
+  artifactKey: Guid(de96fcb59c9f64589a0067a737a8b8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Little Creature 2.mp3 using Guid(de96fcb59c9f64589a0067a737a8b8a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '844b408ec828ba5139661df5c94468db') in 0.008769 seconds
+  Import took 0.015432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 1 (wounded).mp3
+  artifactKey: Guid(01229332b577446ee9c0c22f82d3ce77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 1 (wounded).mp3 using Guid(01229332b577446ee9c0c22f82d3ce77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a7f45a2730f656b278bd408ab1a438a') in 0.006858 seconds
+  Import took 0.013638 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 2 (attack).mp3
+  artifactKey: Guid(e862be8976a1e4889a8fca56e69bedca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 2 (attack).mp3 using Guid(e862be8976a1e4889a8fca56e69bedca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b4a28657ee4e56a3128866ff6a659c3') in 0.007545 seconds
+  Import took 0.014296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 3 (death).mp3
+  artifactKey: Guid(93bcafc17c75d4f35ad4fc0876cb253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Male Voice A 3 (death).mp3 using Guid(93bcafc17c75d4f35ad4fc0876cb253a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6938982abfe5a42e22220f5a6f2b25c9') in 0.007698 seconds
+  Import took 0.014258 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Big Beast Roar 2.mp3
+  artifactKey: Guid(ac959f69051074264ba851f2f9e0af89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Big Beast Roar 2.mp3 using Guid(ac959f69051074264ba851f2f9e0af89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaca3c0c8a90b6d7f424d1a173818fb6') in 0.009341 seconds
+  Import took 0.015790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Beast Roar 2.mp3
+  artifactKey: Guid(fec978d1360d24852a264d93cc187a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Beast Roar 2.mp3 using Guid(fec978d1360d24852a264d93cc187a84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06164bf3c310080e9123e570640ede46') in 0.008650 seconds
+  Import took 0.015171 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 4 (heavy attack).mp3
+  artifactKey: Guid(e7b770b127f984d9fa1d7025c29d8271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 4 (heavy attack).mp3 using Guid(e7b770b127f984d9fa1d7025c29d8271) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b1b7084ed2308e0087ea5a8c1bd10e') in 0.009329 seconds
+  Import took 0.015726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Big Beast Roar 2.mp3
+  artifactKey: Guid(ac959f69051074264ba851f2f9e0af89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Big Beast Roar 2.mp3 using Guid(ac959f69051074264ba851f2f9e0af89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaca3c0c8a90b6d7f424d1a173818fb6') in 0.009048 seconds
+  Import took 0.015501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 6 (attack).mp3
+  artifactKey: Guid(bf0e5b5718ef54ab2ac56b05721d9339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 6 (attack).mp3 using Guid(bf0e5b5718ef54ab2ac56b05721d9339) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6089ac7e222ff26ad1e371a4836d491') in 0.008285 seconds
+  Import took 0.015029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 9 (heavy attack).mp3
+  artifactKey: Guid(ec6b5ebac8ad04c93a4a1a6babaa3133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 9 (heavy attack).mp3 using Guid(ec6b5ebac8ad04c93a4a1a6babaa3133) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87ddf740a8e6e1c00455383acee6482a') in 0.009572 seconds
+  Import took 0.016005 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Little Creature 3.mp3
+  artifactKey: Guid(0f3f5e33b63f84bb49487f27ff181087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Little Creature 3.mp3 using Guid(0f3f5e33b63f84bb49487f27ff181087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1875993365086ca2e0ecec4dd04f7501') in 0.009439 seconds
+  Import took 0.015874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon Audio Kit
+  artifactKey: Guid(f561b5482a09c4b41ab06bec0d8811e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit using Guid(f561b5482a09c4b41ab06bec0d8811e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2089e9421e2db44139d498a6d2ef9c7') in 0.001010 seconds
+  Import took 0.006868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Voices/Female Voice 3 (attack).mp3
+  artifactKey: Guid(a2cda91bf6b9e4cb689a1b3e85a4c43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Voices/Female Voice 3 (attack).mp3 using Guid(a2cda91bf6b9e4cb689a1b3e85a4c43c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bcbfcb59bb6e8022970c02459c8f512') in 0.007039 seconds
+  Import took 0.013403 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.223078 seconds.
+  path: Assets/Dungeon Audio Kit/Music
+  artifactKey: Guid(9edd262e5122f4cb694bb902e1c25072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music using Guid(9edd262e5122f4cb694bb902e1c25072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a76cbe12b5c233076d3f5ddbec7d1951') in 0.001330 seconds
+  Import took 0.008490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.065691 seconds.
+  path: Assets/Dungeon Audio Kit/Music/Dungeon Warriors (Menu).mp3
+  artifactKey: Guid(02d9e504560d24f82b074ee48b808e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music/Dungeon Warriors (Menu).mp3 using Guid(02d9e504560d24f82b074ee48b808e86) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ddd14c585caf1738b2b0f27bd0e4101') in 0.008294 seconds
+  Import took 0.015406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Dungeon Audio Kit/Music/Massacre at the Abyss (Battle).mp3
+  artifactKey: Guid(8b4ed0fe69b1f4cf9bfca7f99a16bf44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music/Massacre at the Abyss (Battle).mp3 using Guid(8b4ed0fe69b1f4cf9bfca7f99a16bf44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e7fe6c12c8001d96cd410adabe6cb82') in 0.012200 seconds
+  Import took 0.018585 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Dungeon Audio Kit/Music/Risky Darkness (Terror).mp3
+  artifactKey: Guid(ab2206157af784fe08b131e053e767df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music/Risky Darkness (Terror).mp3 using Guid(ab2206157af784fe08b131e053e767df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6fef9cd29faaa5fea517eb8ca8be0d') in 0.012875 seconds
+  Import took 0.019630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Dungeon Audio Kit/Music/Underground Route (Quest-Action).mp3
+  artifactKey: Guid(b72bff4919dcb4824b7ec4afb112295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music/Underground Route (Quest-Action).mp3 using Guid(b72bff4919dcb4824b7ec4afb112295f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec08f4134f67967128bd8e15cf404af1') in 0.007600 seconds
+  Import took 0.014067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Dungeon Audio Kit/Music/Through the Mines (Quest).mp3
+  artifactKey: Guid(12afcb3e95d074072b01be39ec6e61e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music/Through the Mines (Quest).mp3 using Guid(12afcb3e95d074072b01be39ec6e61e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c40617e68f72eda71f43b27498812de8') in 0.009455 seconds
+  Import took 0.015720 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Dungeon Audio Kit/Music/Misterious Caverns (Quest).mp3
+  artifactKey: Guid(98afe3a632a744c6d8885990dc26f6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Music/Misterious Caverns (Quest).mp3 using Guid(98afe3a632a744c6d8885990dc26f6a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e23bb818bc9678a8aa082599febddb0e') in 0.011037 seconds
+  Import took 0.017299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.507175 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Dark Corridors Ambience.mp3
+  artifactKey: Guid(55708ab52e30941d78a4c07aa1336d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Dark Corridors Ambience.mp3 using Guid(55708ab52e30941d78a4c07aa1336d9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e923527f599a36ecddb15cc66a2511f5') in 0.007292 seconds
+  Import took 0.013859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Underland Ambience.mp3
+  artifactKey: Guid(c0272e5f68a364c669c0a906c9991cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Underland Ambience.mp3 using Guid(c0272e5f68a364c669c0a906c9991cbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd85f25c6a991c594504c0d43677d179') in 0.007527 seconds
+  Import took 0.013483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Dark Corridors Instrumental Ambience.mp3
+  artifactKey: Guid(e6f9d3043ede64fba8e37d0572762822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Dark Corridors Instrumental Ambience.mp3 using Guid(e6f9d3043ede64fba8e37d0572762822) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f8b36469f5a60dc9f0bd9aab1e7de91') in 0.007354 seconds
+  Import took 0.013362 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Tunnels Ambience.mp3
+  artifactKey: Guid(014329c351dfe48d487caf37150e0f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Tunnels Ambience.mp3 using Guid(014329c351dfe48d487caf37150e0f21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e675655b90f975b4a16516bdd46880e1') in 0.008175 seconds
+  Import took 0.014120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Dungeons Ambience.mp3
+  artifactKey: Guid(b372710ada0744518a4bb690758df249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Dungeons Ambience.mp3 using Guid(b372710ada0744518a4bb690758df249) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce89317b2ea0d9dd8aceb0bc783b131') in 0.007666 seconds
+  Import took 0.013857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Underland Instrumental Ambience.mp3
+  artifactKey: Guid(2eb5a535401204cb7a9e9c67643b9fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Underland Instrumental Ambience.mp3 using Guid(2eb5a535401204cb7a9e9c67643b9fef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d798cab741dea5d1889bbb4144a8d2c') in 0.007924 seconds
+  Import took 0.014237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000296 seconds.
+  path: Assets/Dungeon Audio Kit/Ambience/Lava Ambience.mp3
+  artifactKey: Guid(586bb8924d0294fdca119c1802b5aa78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/Ambience/Lava Ambience.mp3 using Guid(586bb8924d0294fdca119c1802b5aa78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c2a2bd0f8054eebd7025daa613be0bc') in 0.007561 seconds
+  Import took 0.013768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.215918 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events
+  artifactKey: Guid(3309c8f941deb4646817c5e088a8976e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events using Guid(3309c8f941deb4646817c5e088a8976e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72410c61b8d3f0d067fecfb4e35e6237') in 0.001138 seconds
+  Import took 0.007366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.099106 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 1.mp3
+  artifactKey: Guid(878bf59201a8b4cabb171eade8fbcd30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 1.mp3 using Guid(878bf59201a8b4cabb171eade8fbcd30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6009bba6ad07bd9558a528a4e2c9486f') in 0.006397 seconds
+  Import took 0.013438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 10.mp3
+  artifactKey: Guid(7f37e24d2580240aa9c2e6bb9a43770c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 10.mp3 using Guid(7f37e24d2580240aa9c2e6bb9a43770c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0bc88f561bbf7c9c9e448aea85bcc256') in 0.007594 seconds
+  Import took 0.013187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 8.mp3
+  artifactKey: Guid(40ce8d9ed35f14cadacbd85759fbbfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 8.mp3 using Guid(40ce8d9ed35f14cadacbd85759fbbfa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '470a4abd27ef7302c818deda13bda664') in 0.007896 seconds
+  Import took 0.013989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 2.mp3
+  artifactKey: Guid(276d09c5d91c647ed984103d12f9b3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 2.mp3 using Guid(276d09c5d91c647ed984103d12f9b3eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7c5cd15564f9d2919242d1d7e41f923') in 0.006098 seconds
+  Import took 0.011834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 5.mp3
+  artifactKey: Guid(0a9c6718951ff44d19b70f4ebee78ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 5.mp3 using Guid(0a9c6718951ff44d19b70f4ebee78ba3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f4b00c659947810a042e0f5f995102fd') in 0.009617 seconds
+  Import took 0.015371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 7.mp3
+  artifactKey: Guid(079f38bcfb37b468d99c0be3c6bed77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 7.mp3 using Guid(079f38bcfb37b468d99c0be3c6bed77d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b9e29426b3d6666803f26be9de2b969') in 0.006335 seconds
+  Import took 0.012648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 13.mp3
+  artifactKey: Guid(db7c672b8f63248fab13d6f89b7f2abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 13.mp3 using Guid(db7c672b8f63248fab13d6f89b7f2abb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84bf5cbef4e1b9a472162ba68332e3d1') in 0.007065 seconds
+  Import took 0.013238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 14.mp3
+  artifactKey: Guid(b90ee827627704f608d30615cf1e4315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 14.mp3 using Guid(b90ee827627704f608d30615cf1e4315) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3a22a757369cd790b1bce2d90b13aaf') in 0.006935 seconds
+  Import took 0.012615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 15.mp3
+  artifactKey: Guid(6c0529008f3a5452e8741beb28b72689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 15.mp3 using Guid(6c0529008f3a5452e8741beb28b72689) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a7071f2fa0e50560d5c9902b3ea8b2a') in 0.007377 seconds
+  Import took 0.012903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 11.mp3
+  artifactKey: Guid(05be393d638ef4ca195df6152e06d482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 11.mp3 using Guid(05be393d638ef4ca195df6152e06d482) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ace08c5f5e27e46bc9379436175e15b') in 0.006589 seconds
+  Import took 0.012297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 3.mp3
+  artifactKey: Guid(88ad4076549024e55af6d8c3495583b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 3.mp3 using Guid(88ad4076549024e55af6d8c3495583b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdbda27b090e39365cc5826c17945a69') in 0.008007 seconds
+  Import took 0.013658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 9.mp3
+  artifactKey: Guid(56da5abfe15954e8897f026a9b611535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 9.mp3 using Guid(56da5abfe15954e8897f026a9b611535) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '719f0249d80d1345d96c4895014e40d9') in 0.006396 seconds
+  Import took 0.011909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 4.mp3
+  artifactKey: Guid(5d9a31c67518b422ebc0dc41a6a155e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 4.mp3 using Guid(5d9a31c67518b422ebc0dc41a6a155e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7a86f90b2885bdd7f734dd1903d6187') in 0.006750 seconds
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 12.mp3
+  artifactKey: Guid(365327f17eb2149b9991f69d130e0f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 12.mp3 using Guid(365327f17eb2149b9991f69d130e0f8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1d525c3f7908c098ea0c289f16296c7') in 0.007898 seconds
+  Import took 0.013611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Events/Event 6.mp3
+  artifactKey: Guid(40701a138eda845568fd74720a1e953c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Events/Event 6.mp3 using Guid(40701a138eda845568fd74720a1e953c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61657d3d0f891e74997447720986e9cb') in 0.007085 seconds
+  Import took 0.012534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.222321 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc
+  artifactKey: Guid(91860d9bc0d7f4b6a943b5c7afd3dfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc using Guid(91860d9bc0d7f4b6a943b5c7afd3dfe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '008cfd461e0339fd937017b702788903') in 0.001077 seconds
+  Import took 0.007114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.128524 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Axe 1.mp3
+  artifactKey: Guid(aaa60960624b4437ea79dee1785734e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Axe 1.mp3 using Guid(aaa60960624b4437ea79dee1785734e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7302db54714fe16c75e6a620db67aa0f') in 0.007410 seconds
+  Import took 0.013238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Axe 2.mp3
+  artifactKey: Guid(b05e8950d5231416584ce3c636c575bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Axe 2.mp3 using Guid(b05e8950d5231416584ce3c636c575bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85d8c5690b22f4c36ff87bbdad2275bc') in 0.006043 seconds
+  Import took 0.011364 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 3 (stone).mp3
+  artifactKey: Guid(8b7aa4e0cc8ac426fafceb04a31a47f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 3 (stone).mp3 using Guid(8b7aa4e0cc8ac426fafceb04a31a47f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e32373d66c0c6e2cee138ae27164115e') in 0.006935 seconds
+  Import took 0.012669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Coins.mp3
+  artifactKey: Guid(b6595f25b66fe43e6bc286f6a0e2cc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Coins.mp3 using Guid(b6595f25b66fe43e6bc286f6a0e2cc83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e058c68a9bfda92e9cf71092aa967295') in 0.005768 seconds
+  Import took 0.011401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 1 (metal open).mp3
+  artifactKey: Guid(f73d18d003ea549d383e3011d0ec998c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 1 (metal open).mp3 using Guid(f73d18d003ea549d383e3011d0ec998c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6eb606193d1e65c65eb69ab6bb54a19') in 0.007079 seconds
+  Import took 0.012371 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Bow 1.mp3
+  artifactKey: Guid(e801955900c7c48d5afa52151aef4643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Bow 1.mp3 using Guid(e801955900c7c48d5afa52151aef4643) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f26d048ada5e29815f385b574fab677a') in 0.008998 seconds
+  Import took 0.014361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Button 2.mp3
+  artifactKey: Guid(12f26a0f0ea1947fabb8283cf8b8a24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Button 2.mp3 using Guid(12f26a0f0ea1947fabb8283cf8b8a24c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0182dc3eefa3b966afdcc463b86f989') in 0.005843 seconds
+  Import took 0.010993 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Hammer 1.mp3
+  artifactKey: Guid(86cfbdbcf217345678ce32a98980c1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Hammer 1.mp3 using Guid(86cfbdbcf217345678ce32a98980c1ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dff34ffd0187761bce1a0a32bfaddf5') in 0.005752 seconds
+  Import took 0.011168 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Gear 1.mp3
+  artifactKey: Guid(8b7a89a1765924927baceb6f08702912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Gear 1.mp3 using Guid(8b7a89a1765924927baceb6f08702912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1366bae5b7b0a56e098864eadda44f') in 0.007606 seconds
+  Import took 0.012801 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Bats 1.mp3
+  artifactKey: Guid(7f90c45b75a404388973ed1382560207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Bats 1.mp3 using Guid(7f90c45b75a404388973ed1382560207) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5aeea9e3f53f497eb66ba7a7846ce48') in 0.008943 seconds
+  Import took 0.014289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 6 (sliding).mp3
+  artifactKey: Guid(dabd0881fe81f42829f56e00f68e0131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 6 (sliding).mp3 using Guid(dabd0881fe81f42829f56e00f68e0131) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de8b649165081e9d6e26214cece5a9f0') in 0.007924 seconds
+  Import took 0.013331 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Corf 2 (loop).mp3
+  artifactKey: Guid(a171de43a776e498f8d8e5c7e276028e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Corf 2 (loop).mp3 using Guid(a171de43a776e498f8d8e5c7e276028e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe684fbf885f7f57538a9336efc074b1') in 0.006279 seconds
+  Import took 0.011519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Button 4.mp3
+  artifactKey: Guid(ed29a964b4ab1438898b9567f2212b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Button 4.mp3 using Guid(ed29a964b4ab1438898b9567f2212b15) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed4ce765e382f951d24e33d050178c1d') in 0.007050 seconds
+  Import took 0.012440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 5 (cells).mp3
+  artifactKey: Guid(127826b9c4a3846628a85e69e304ee6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 5 (cells).mp3 using Guid(127826b9c4a3846628a85e69e304ee6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac19ac60111ae2863c10a3482dbd5a8c') in 0.006136 seconds
+  Import took 0.011361 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Flies (loop).mp3
+  artifactKey: Guid(61b71ce7b88784e86ad6ba999f426518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Flies (loop).mp3 using Guid(61b71ce7b88784e86ad6ba999f426518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb60b83a8b2e947780e9cb30a2fb7aa') in 0.006738 seconds
+  Import took 0.012184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Earthquake 1.mp3
+  artifactKey: Guid(96211cb247a394acc8dd79c91f4a0781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Earthquake 1.mp3 using Guid(96211cb247a394acc8dd79c91f4a0781) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '433558e5c40078752ab0d74ab5ae1021') in 0.006691 seconds
+  Import took 0.012163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Coins (bag).mp3
+  artifactKey: Guid(18cf6900e619b4bea85c6696ccb272a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Coins (bag).mp3 using Guid(18cf6900e619b4bea85c6696ccb272a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c397660b965061a8eb42c2ef5ca0e5c') in 0.006414 seconds
+  Import took 0.011758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Gear 2.mp3
+  artifactKey: Guid(d2d2b195736db4d8e92e40fc49b3ed3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Gear 2.mp3 using Guid(d2d2b195736db4d8e92e40fc49b3ed3f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f376d7d787c6221725ba7fcda35f17a') in 0.005924 seconds
+  Import took 0.011402 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Earthquake 2.mp3
+  artifactKey: Guid(ffc16f06a1db04e44a3a9859c56d82d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Earthquake 2.mp3 using Guid(ffc16f06a1db04e44a3a9859c56d82d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f07bc6b164f475f718395b40002b9194') in 0.006758 seconds
+  Import took 0.012324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Corf 1.mp3
+  artifactKey: Guid(ccd4a7aab282c40339b1d9bbf668d1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Corf 1.mp3 using Guid(ccd4a7aab282c40339b1d9bbf668d1c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aef87d46fcee7916ca096638b6f743cb') in 0.006520 seconds
+  Import took 0.012496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Button 1.mp3
+  artifactKey: Guid(bcceb3c51a2ba441dadae658249cb64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Button 1.mp3 using Guid(bcceb3c51a2ba441dadae658249cb64f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7135c130bb8a061ef8a160896526f63') in 0.006708 seconds
+  Import took 0.012467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 2 (wood close).mp3
+  artifactKey: Guid(1f06b60895a924f47b8bb781aaa80b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 2 (wood close).mp3 using Guid(1f06b60895a924f47b8bb781aaa80b6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fde515407fb25d5bd3cac5258668e298') in 0.008389 seconds
+  Import took 0.014104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Button 5.mp3
+  artifactKey: Guid(fee25f9a4206245db8c9c9bbb4ad9d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Button 5.mp3 using Guid(fee25f9a4206245db8c9c9bbb4ad9d69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d336ce6061882d354724e12ad1a3bf2') in 0.006579 seconds
+  Import took 0.012506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 2 (wood open).mp3
+  artifactKey: Guid(e382471c2d3b247b9824062fcb9ef8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 2 (wood open).mp3 using Guid(e382471c2d3b247b9824062fcb9ef8bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e282f4749d48736d845f1735b27fa56') in 0.005730 seconds
+  Import took 0.011169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Bats 2.mp3
+  artifactKey: Guid(fa55c96876ce14325b4e85277bdedbec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Bats 2.mp3 using Guid(fa55c96876ce14325b4e85277bdedbec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fc7ae7ff3ec3987719a58bb80e946d0') in 0.006681 seconds
+  Import took 0.011990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Button 3.mp3
+  artifactKey: Guid(f672fb8c46c2645ebba79be0e4ffe88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Button 3.mp3 using Guid(f672fb8c46c2645ebba79be0e4ffe88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '540cd08bb0457ec12323b10fed9d5e9e') in 0.007298 seconds
+  Import took 0.013102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Bow 2.mp3
+  artifactKey: Guid(391cd6c5b70624bf396ba32f3de24949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Bow 2.mp3 using Guid(391cd6c5b70624bf396ba32f3de24949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cf0674338a8886fa4a7c5daa4e1245e') in 0.007491 seconds
+  Import took 0.013398 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Cave Collapse.mp3
+  artifactKey: Guid(3fd6731acd3384cf4ae3d9aa6e7269bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Cave Collapse.mp3 using Guid(3fd6731acd3384cf4ae3d9aa6e7269bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29d85122245877ba40a4ec00b23a697b') in 0.006658 seconds
+  Import took 0.012047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Axe 3.mp3
+  artifactKey: Guid(2621eae48181445a5888836cf500389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Axe 3.mp3 using Guid(2621eae48181445a5888836cf500389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5955e7534629093b92816419b2d653d1') in 0.006042 seconds
+  Import took 0.011527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Bats (loop).mp3
+  artifactKey: Guid(cbbb156f409ad4aaca5b0b563c4c4751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Bats (loop).mp3 using Guid(cbbb156f409ad4aaca5b0b563c4c4751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1fe3ea58d7302975fe642b0ec8852173') in 0.009660 seconds
+  Import took 0.014950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Lever 2.mp3
+  artifactKey: Guid(b2ca4d6776157447bb09b5a4a7c0e032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Lever 2.mp3 using Guid(b2ca4d6776157447bb09b5a4a7c0e032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9950045d4b331b6e8727bea4109cdd8c') in 0.007097 seconds
+  Import took 0.012599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 4 (big gate).mp3
+  artifactKey: Guid(885d4973a2e9849149b4d9ddcbc61484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 4 (big gate).mp3 using Guid(885d4973a2e9849149b4d9ddcbc61484) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '106b8a89f34aae159173d21e6444a91f') in 0.007343 seconds
+  Import took 0.012933 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Bow 3.mp3
+  artifactKey: Guid(4333820fb19ed4de4873ff1d7f382a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Bow 3.mp3 using Guid(4333820fb19ed4de4873ff1d7f382a4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5ecc774e97cc15dd3ed722da142ff14') in 0.005826 seconds
+  Import took 0.011379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Door 1 (metal close).mp3
+  artifactKey: Guid(803911ef1876c4462a5a516e54271af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Door 1 (metal close).mp3 using Guid(803911ef1876c4462a5a516e54271af0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e49b5dab685eef0cd1032ff96eb435') in 0.007674 seconds
+  Import took 0.013007 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Hammer 2.mp3
+  artifactKey: Guid(6b0984f15f61940e2bd2789f29b32c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Hammer 2.mp3 using Guid(6b0984f15f61940e2bd2789f29b32c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '357238b43650e7694f05379a45c42700') in 0.009540 seconds
+  Import took 0.014891 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Lever 1.mp3
+  artifactKey: Guid(4e44982ff115d4e8f9471c4957c34a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Lever 1.mp3 using Guid(4e44982ff115d4e8f9471c4957c34a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6e9dacdc3a836cc4e39f4577456eca5') in 0.008853 seconds
+  Import took 0.014109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Map (close).mp3
+  artifactKey: Guid(53445fe61aa4e4c31a20aed023512b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Map (close).mp3 using Guid(53445fe61aa4e4c31a20aed023512b5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3918707c166a57f3b28440a192fe5544') in 0.007098 seconds
+  Import took 0.012278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.802125 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Map (open).mp3
+  artifactKey: Guid(f6138105768a24bd4bcf066f4a7eae7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Map (open).mp3 using Guid(f6138105768a24bd4bcf066f4a7eae7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00c25730ae222fcea9e5a49447f78b3') in 0.005939 seconds
+  Import took 0.011923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Picking 1.mp3
+  artifactKey: Guid(64aa68e7edbdb4bb2bf0f857a8ded520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Picking 1.mp3 using Guid(64aa68e7edbdb4bb2bf0f857a8ded520) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7cf6559aa8a12b14af2070663e15f92') in 0.006159 seconds
+  Import took 0.011753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Rats (loop).mp3
+  artifactKey: Guid(0ad8d597bab9b4ec0ad4cbb33d1f1ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Rats (loop).mp3 using Guid(0ad8d597bab9b4ec0ad4cbb33d1f1ba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd7fea3faa5b1aca36e032a4a278cd7a') in 0.007370 seconds
+  Import took 0.012724 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Picking 2.mp3
+  artifactKey: Guid(166d9569ffca74a5ead286dd8d4e78b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Picking 2.mp3 using Guid(166d9569ffca74a5ead286dd8d4e78b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cfecef47f2ae29d4c89dac7ad8fb91a') in 0.007100 seconds
+  Import took 0.013108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Picking 3.mp3
+  artifactKey: Guid(86b3ee00e60134922b8dee7a26a828dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Picking 3.mp3 using Guid(86b3ee00e60134922b8dee7a26a828dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96b2d3981171b2a77fcc667b9139c2a8') in 0.006482 seconds
+  Import took 0.012760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Rat.mp3
+  artifactKey: Guid(d432c687f5d1e46c89f1099612686b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Rat.mp3 using Guid(d432c687f5d1e46c89f1099612686b6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81cbcc833b050fae424672d9aa84d6f1') in 0.006068 seconds
+  Import took 0.011708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Map (open).mp3
+  artifactKey: Guid(f6138105768a24bd4bcf066f4a7eae7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Map (open).mp3 using Guid(f6138105768a24bd4bcf066f4a7eae7f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c00c25730ae222fcea9e5a49447f78b3') in 0.005818 seconds
+  Import took 0.011198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Shot 3.mp3
+  artifactKey: Guid(5de11c9d6f568420bac752a30e319e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Shot 3.mp3 using Guid(5de11c9d6f568420bac752a30e319e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7dc54a09b6182056b649c43204af6567') in 0.007035 seconds
+  Import took 0.012641 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 2 (sand).mp3
+  artifactKey: Guid(5fb2b54f02d984c0f9795f0c691d429e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 2 (sand).mp3 using Guid(5fb2b54f02d984c0f9795f0c691d429e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d3342d519c17fd4a3c6666824bf9fc8') in 0.006496 seconds
+  Import took 0.012238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 15 (skeleton).mp3
+  artifactKey: Guid(efb16c563dddf4ddfb18be3ae6b7cabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 15 (skeleton).mp3 using Guid(efb16c563dddf4ddfb18be3ae6b7cabc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ed9d8279a0bb2676ff937a07256a46f') in 0.007814 seconds
+  Import took 0.013507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 12 (stone).mp3
+  artifactKey: Guid(ca13459b7d9b24f5dbe12e4b93f29c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 12 (stone).mp3 using Guid(ca13459b7d9b24f5dbe12e4b93f29c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e9f520e6be784f31a6a0a5f609aa88') in 0.007090 seconds
+  Import took 0.012489 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 10 (stone).mp3
+  artifactKey: Guid(4f5de9c6a15254fd5808fd54d295a705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 10 (stone).mp3 using Guid(4f5de9c6a15254fd5808fd54d295a705) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef8b6e2516bb71507395eca80989a6a3') in 0.006660 seconds
+  Import took 0.012276 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Torch 3 (loop).mp3
+  artifactKey: Guid(c26234a815879454e9a0673f4b8f336e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Torch 3 (loop).mp3 using Guid(c26234a815879454e9a0673f4b8f336e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b745829658287f17c3bfaa54fc6bcc5') in 0.005948 seconds
+  Import took 0.011519 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Sword 2.mp3
+  artifactKey: Guid(eafd59dd2b4aa44299a24099dbb0265a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Sword 2.mp3 using Guid(eafd59dd2b4aa44299a24099dbb0265a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd9dca2b97f7efd314c240d78e337787f') in 0.006700 seconds
+  Import took 0.012280 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 13 (flood).mp3
+  artifactKey: Guid(909f5b862df6e4d1db153150b03d29a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 13 (flood).mp3 using Guid(909f5b862df6e4d1db153150b03d29a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77c615ebd1d2067bd08e9b6dae236950') in 0.008658 seconds
+  Import took 0.014223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 8 (water).mp3
+  artifactKey: Guid(588a63019ccfe4319a62a2c5d7a6125a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 8 (water).mp3 using Guid(588a63019ccfe4319a62a2c5d7a6125a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34bf301b06cbf384fa391875d45c884e') in 0.007962 seconds
+  Import took 0.013766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Sword 1.mp3
+  artifactKey: Guid(ab688b25725e4471fa1e4cbe58011e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Sword 1.mp3 using Guid(ab688b25725e4471fa1e4cbe58011e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e84b85aef454de43ff4ee086cb6874e') in 0.008628 seconds
+  Import took 0.014878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (close).mp3
+  artifactKey: Guid(8b5961820d7a545119f038d956311c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (close).mp3 using Guid(8b5961820d7a545119f038d956311c02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a30d379335e3866c34dbedd5e29bea5') in 0.007407 seconds
+  Import took 0.013415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Water Drop 2.mp3
+  artifactKey: Guid(cbd521f9d9787439e9e7f0104d10b7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Water Drop 2.mp3 using Guid(cbd521f9d9787439e9e7f0104d10b7fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ec5a26d3d404b8ff2debb26e50b8c3e') in 0.007545 seconds
+  Import took 0.013868 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Water Stream (loop).mp3
+  artifactKey: Guid(5dd6fd2a3ec2542caa8979120bdef4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Water Stream (loop).mp3 using Guid(5dd6fd2a3ec2542caa8979120bdef4f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '100f69777a9356ca566b69ccb622d903') in 0.008575 seconds
+  Import took 0.014870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Wind 2.mp3
+  artifactKey: Guid(187e4498e53fc435a95be1a4a95c346b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Wind 2.mp3 using Guid(187e4498e53fc435a95be1a4a95c346b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37970002d556ee3b551b5112236565f8') in 0.007904 seconds
+  Import took 0.014052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 14 (flood).mp3
+  artifactKey: Guid(d765d8efa7d8e48a893f5d978a360e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 14 (flood).mp3 using Guid(d765d8efa7d8e48a893f5d978a360e09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e42a8e0c3939f1404cae721b3f0bf37') in 0.007081 seconds
+  Import took 0.013135 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Wind 3.mp3
+  artifactKey: Guid(c4be8c2955fac4c629307d1c923c633a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Wind 3.mp3 using Guid(c4be8c2955fac4c629307d1c923c633a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2968dc0421fde374976d11404921799') in 0.010613 seconds
+  Import took 0.016525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 3 (sand).mp3
+  artifactKey: Guid(6f6be81e9d19346479098fe2d0bd0703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 3 (sand).mp3 using Guid(6f6be81e9d19346479098fe2d0bd0703) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45b4c5647c654b8d149de4b943896da1') in 0.009931 seconds
+  Import took 0.015954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Sword 3.mp3
+  artifactKey: Guid(8dd208be176f64a1f9cd08a6fa26f930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Sword 3.mp3 using Guid(8dd208be176f64a1f9cd08a6fa26f930) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcef11ea9a88db9482e95fa380b693aa') in 0.011724 seconds
+  Import took 0.017465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Wind 1.mp3
+  artifactKey: Guid(c6b46b95a435a4e21b029e85c6a30986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Wind 1.mp3 using Guid(c6b46b95a435a4e21b029e85c6a30986) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '71579337c921260aa6d6a81f488b3e17') in 0.009684 seconds
+  Import took 0.015514 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 17 (skeleton).mp3
+  artifactKey: Guid(57915b3fb06fb40c480ac25e6b8e021a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 17 (skeleton).mp3 using Guid(57915b3fb06fb40c480ac25e6b8e021a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7eba2d670e8eca44f99046ec17083568') in 0.009542 seconds
+  Import took 0.015501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 6 (water).mp3
+  artifactKey: Guid(b991b6ec1a7d045d391ab8d4bcf7130e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 6 (water).mp3 using Guid(b991b6ec1a7d045d391ab8d4bcf7130e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d2e4aa1815d8699b23e97162d61371e') in 0.007521 seconds
+  Import took 0.013580 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Spiked Trap 2.mp3
+  artifactKey: Guid(6e18879e927644efd902865ed43db861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Spiked Trap 2.mp3 using Guid(6e18879e927644efd902865ed43db861) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b616ac4232d6e98c0c344c5e847014c6') in 0.007786 seconds
+  Import took 0.013962 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (open).mp3
+  artifactKey: Guid(8a7835740a63b409cb4518d5dd4d892f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (open).mp3 using Guid(8a7835740a63b409cb4518d5dd4d892f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49d4eef81ec2b6d8e7d2cd487a3aa6ca') in 0.007641 seconds
+  Import took 0.013613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 11 (stone).mp3
+  artifactKey: Guid(5d315f2016eef48e8b9e4639f55a81b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 11 (stone).mp3 using Guid(5d315f2016eef48e8b9e4639f55a81b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9e2dc95654055406f7bd28f87cb7978') in 0.007326 seconds
+  Import took 0.013527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 5 (water).mp3
+  artifactKey: Guid(632aa81ae76ff4d22a6514f414f48602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 5 (water).mp3 using Guid(632aa81ae76ff4d22a6514f414f48602) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b210e0d6b252d5eea0860a611705492') in 0.007382 seconds
+  Import took 0.013385 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 9 (stone).mp3
+  artifactKey: Guid(97a9521cadf924d12b2ea680e8f5d0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 9 (stone).mp3 using Guid(97a9521cadf924d12b2ea680e8f5d0c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed0a674bb0686abbd94209c7de93a797') in 0.007597 seconds
+  Import took 0.013581 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Shot 2.mp3
+  artifactKey: Guid(bcf6289af05884685aa844c0bae46807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Shot 2.mp3 using Guid(bcf6289af05884685aa844c0bae46807) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be44057aaf3a14548ae879a526e38590') in 0.009883 seconds
+  Import took 0.015776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (bones).mp3
+  artifactKey: Guid(ce8c5e3e2d3af4fdbae654bb04c9d963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (bones).mp3 using Guid(ce8c5e3e2d3af4fdbae654bb04c9d963) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41984aa21b889c348b764b8c7ef7df61') in 0.008763 seconds
+  Import took 0.014783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Torch 2 (loop).mp3
+  artifactKey: Guid(7ce455b6e7a5143bd861e0201643277e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Torch 2 (loop).mp3 using Guid(7ce455b6e7a5143bd861e0201643277e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd0f06c12886fc5ff2f0b945c503795') in 0.007391 seconds
+  Import took 0.013302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 7 (water).mp3
+  artifactKey: Guid(3cae9fb37dde3435086be1c6c9f01fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 7 (water).mp3 using Guid(3cae9fb37dde3435086be1c6c9f01fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02b635fab7759dcab4714b031521cad4') in 0.006475 seconds
+  Import took 0.011946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Water Drop 1.mp3
+  artifactKey: Guid(0ccd7b50c38204272ab9badfbf3c40cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Water Drop 1.mp3 using Guid(0ccd7b50c38204272ab9badfbf3c40cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '818a2b36559a823fc5ed567ddd2197be') in 0.006609 seconds
+  Import took 0.012001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Spiked Trap 1.mp3
+  artifactKey: Guid(0c0265e2a902f47e9bfec20a066dc269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Spiked Trap 1.mp3 using Guid(0c0265e2a902f47e9bfec20a066dc269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c322c615710cc013c308e4d2534984aa') in 0.007894 seconds
+  Import took 0.013124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 1 (sand).mp3
+  artifactKey: Guid(e3affc00fcb1e475d955b92f1ecc6bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 1 (sand).mp3 using Guid(e3affc00fcb1e475d955b92f1ecc6bcc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec44fd5805fc09711fc30f9b0c05f3f6') in 0.006790 seconds
+  Import took 0.012378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 4 (sand).mp3
+  artifactKey: Guid(6b5218dbe7492400f8697c02b828dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 4 (sand).mp3 using Guid(6b5218dbe7492400f8697c02b828dec4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ce9ccbf3c491a8376c3f81992a232bf') in 0.007091 seconds
+  Import took 0.012828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Shot 1 (loop).mp3
+  artifactKey: Guid(6a6d8fd8dd9be4ba4bfcd4ac8010e025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Shot 1 (loop).mp3 using Guid(6a6d8fd8dd9be4ba4bfcd4ac8010e025) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f39d53ff4578546a6bd3f5b710e40b34') in 0.007983 seconds
+  Import took 0.013522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Step 16 (skeleton).mp3
+  artifactKey: Guid(4d782dc6cda694fce8a5edd8380b028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Step 16 (skeleton).mp3 using Guid(4d782dc6cda694fce8a5edd8380b028c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94bb130c4dc8e3eb349d3a61443a89b0') in 0.006955 seconds
+  Import took 0.012338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (rubbish).mp3
+  artifactKey: Guid(f22810492f92d4f88b34d40387acb3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Treasure Chest (rubbish).mp3 using Guid(f22810492f92d4f88b34d40387acb3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3bccb877df3eee3e3014b347db1400ab') in 0.010252 seconds
+  Import took 0.015688 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Shot 1 (end).mp3
+  artifactKey: Guid(7e8731130a13f4f5bb4eb56448b1ee51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Shot 1 (end).mp3 using Guid(7e8731130a13f4f5bb4eb56448b1ee51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b200c9fd470a8cffc8c1280df4720e') in 0.006981 seconds
+  Import took 0.012368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Dungeon Audio Kit/FX/Misc/Torch 1 (loop).mp3
+  artifactKey: Guid(2692fa56976da459aa48a7c1b916813f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Dungeon Audio Kit/FX/Misc/Torch 1 (loop).mp3 using Guid(2692fa56976da459aa48a7c1b916813f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6124e0dbca4af233952b0206762916ce') in 0.006604 seconds
+  Import took 0.011921 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

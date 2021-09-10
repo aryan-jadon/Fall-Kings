@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{A245F108-C094-A9E1-A565-BA75BF080C9B}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Actions/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Actions/PlayerController.cs" Line="108" Column="1" />
+      <File FileName="Assets/Scripts/BotsKing.cs" Line="25" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Fall-Royal-Kings" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="dbe82c72-89d3-4d4f-bd22-cc6cfcd78e5d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
